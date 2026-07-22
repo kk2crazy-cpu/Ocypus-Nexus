@@ -1,0 +1,110 @@
+# ==========================
+# Operating System
+# ==========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================
+# FastAPI
+# ==========================
+instance/
+*.log
+
+# ==========================
+# SQLite
+# ==========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==========================
+# PostgreSQL Dump
+# ==========================
+*.sql.bak
+*.dump
+
+# ==========================
+# Node
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# ==========================
+# React / Vite
+# ==========================
+dist/
+coverage/
+.vite/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# Environment
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Docker
+# ==========================
+docker-data/
+*.pid
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Temporary Files
+# ==========================
+tmp/
+temp/
+.cache/
+
+# ==========================
+# Test
+# ==========================
+.pytest_cache/
+.coverage
+coverage.xml
+
+# ==========================
+# Misc
+# ==========================
+*.bak
+*.swp
+*.swo
