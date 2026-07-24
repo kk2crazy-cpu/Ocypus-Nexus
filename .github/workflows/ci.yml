@@ -5,3 +5,49 @@ on:
       - main
 
   pull_request:
+jobs:
+Checkout
+
+↓
+
+Setup Python
+
+↓
+
+Setup Node
+
+↓
+
+Install Dependencies
+
+↓
+
+Backend Lint
+
+↓
+
+Frontend Lint
+
+↓
+
+Backend Tests
+
+↓
+
+Frontend Tests
+
+↓
+
+Database Validation
+
+↓
+
+Generate OpenAPI
+
+↓
+
+Build Docker
+
+↓
+
+Upload Artifact
