@@ -1,0 +1,35 @@
+frontend
+
+↓
+
+backend
+
+↓
+
+postgres
+
+↓
+
+redis
+
+↓
+
+minio
+
+↓
+
+nginx
+
+services:
+
+    postgres:
+
+    redis:
+
+    minio:
+
+    backend:
+
+    frontend:
+    python:3.12-slim
+    node:22-alpine
