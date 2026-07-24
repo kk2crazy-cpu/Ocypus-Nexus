@@ -1,0 +1,25 @@
+on:
+  push:
+    tags:
+      - "v*"
+Tag
+
+↓
+
+Generate Version
+
+↓
+
+Generate CHANGELOG
+
+↓
+
+Docker Build
+
+↓
+
+GitHub Release
+
+↓
+
+Publish Image
